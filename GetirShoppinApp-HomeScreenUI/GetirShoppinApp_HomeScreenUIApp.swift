@@ -1,17 +1,13 @@
-//
-//  GetirShoppinApp_HomeScreenUIApp.swift
-//  GetirShoppinApp-HomeScreenUI
-//
-//  Created by Ayşe Nur Kendirci on 14.09.2025.
-//
-
 import SwiftUI
 
 @main
 struct GetirShoppinApp_HomeScreenUIApp: App {
+    init() {
+        UITabBar.appearance().unselectedItemTintColor = UIColor.systemGray3
+    }
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RootView()
         }
     }
 }
