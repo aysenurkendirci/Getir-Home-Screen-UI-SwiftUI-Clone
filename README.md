@@ -9,16 +9,10 @@ As part of the TechCareer SwiftUI Bootcamp, to clone Getir’s **Home screen** U
 ## Özellikler (TR)
 - SwiftUI **component-driven** mimari
 - **Yeniden kullanılabilir** View bileşenleri
-- **Tema** (renk/typography/spacing) düzeni
-- **Önizleme odaklı** geliştirme (`#Preview`)
-- **Uyarlanabilir** layout (farklı ekran boyutları)
 
 ## Features (EN)
 - SwiftUI **component-driven** architecture
 - **Reusable** view components
-- Centralized **theme** (colors/typography/spacing)
-- **Preview-driven** development (`#Preview`)
-- **Adaptive** layouts (various screen sizes)
 
 
 <p align="center">
